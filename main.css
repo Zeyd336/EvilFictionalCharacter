@@ -1,0 +1,122 @@
+ #banner{
+      width: 900px;
+      border-top: solid black 2px;
+      height: 200px;
+      background-image: url("https://www.icrewplay.com/wp-content/uploads/2018/02/Far-Cry-3-Classic-Edition_-Announcement-Trailer-Header.png");
+      background-repeat: no-repeat;
+      background-size: 100%;
+      background-position: 50% 45%;
+      text-align: center;
+      margin: 0 auto;
+      border: solid 5px red;
+      border-radius: 10px;
+}
+
+ #banner h1{
+      margin-top: 75px;
+      font-family: 'Hanalei Fill', cursive;
+      color: red;
+      text-decoration: underline;
+      opacity: 0.9;
+      text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+}
+
+#nav{
+      text-align: center;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      font-family: 'Hanalei Fill', cursive;
+      text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+}
+
+  #nav a {
+      padding-left: 20px;
+      color: red;
+}
+
+body{
+      background-color: black;
+}
+
+#main{
+      width: 700px;
+      height: 650px;
+      background-color: white;
+      margin: 0 auto;
+      border: solid 5px red;
+      border-radius: 10px;
+      text-align: center;
+
+}
+
+#footer{
+      width: 350px;
+      height: 50px;
+      margin-left: auto;
+      margin-right: auto;
+      font-family: cursive;
+      color: red;
+      text-transform: uppercase;
+      border: solid;
+      padding-top: 1px;
+      border-radius: 10px;
+      text-align: center;
+      font-family: 'Hanalei Fill', cursive;
+}
+
+#sidebar {
+    border: 5px solid red;
+      border-radius: 10px;
+    width: 250px;
+    height: 300px;
+    background-color: white;
+    float: right;
+     text-align: center;
+     text-shadow: 2px 4px 3px rgba(0,0,0,0.3);
+      opacity: 0.8;
+
+}
+
+#sidebar2 {
+    border: 5px solid red;
+      border-radius: 10px;
+    width: 350px;
+    height: 300px;
+    background-color: white;
+    float: left; 
+    background-image: url("https://static.giantbomb.com/uploads/original/2/28666/2380139-farcry3_d3d11_2012_12_02_02_27_18_14.jpg");
+      background-repeat: no-repeat;
+      background-size: 250%;
+      background-position: 83% 40%;
+}
+
+
+h1{
+      color: red;
+      font-family: 'Hanalei Fill', cursive;
+}
+
+h2{
+      color: red;
+      font-family: 'Hanalei Fill', cursive;
+      text-decoration: underline;
+}
+
+h3{
+      font-family: 'Hanalei Fill', cursive;
+      color: red;
+}
+
+h4{
+     font-family: 'Acme', sans-serif;
+      color: red;
+}
+
+h5{
+      font-size: 15px;
+}
+
+p{
+      color: red;
+      font-family: 'Hanalei Fill', cursive;
+}
